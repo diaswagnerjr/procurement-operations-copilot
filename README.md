@@ -1,24 +1,26 @@
 # Procurement Operations Copilot
 
-Aplicacao web executiva e estatica para apresentar uma iniciativa de transformacao digital na operacao transacional de Suprimentos, combinando Inteligencia Artificial, automacao e agentes inteligentes.
+Aplicação web executiva e estática para apresentar uma iniciativa de transformação digital na Sustentação Operacional de Suprimentos, combinando Inteligência Artificial, automação, Agent Mesh e integração com soluções como SAP S/4HANA e Colmeia.
 
 ## Objetivo
 
-Demonstrar como um Procurement Operations Copilot pode apoiar a Sustentacao Operacional de Suprimentos em atendimento, criacao de requisicoes, automacao de compras de baixa complexidade e inteligencia pre-award.
+Demonstrar como o Procurement Operations Copilot pode reduzir atritos operacionais, elevar NPS, acelerar ciclos de atendimento, apoiar requisitantes e trazer inteligência para a etapa de pré-award dentro do Colmeia.
 
 ## Escopo funcional
 
-- Visao geral da iniciativa e contexto de negocio.
-- Principais dores da operacao transacional.
-- Procurement Service Desk com conceito de Agent Mesh.
-- Criacao Assistida de Requisicoes.
-- Automacao de Compras de Baixa Complexidade.
-- Procurement Negotiation Agent para etapa pre-award.
-- Dashboard executivo com beneficios esperados.
-- Governanca do projeto.
-- Roadmap de implantacao.
-- Area de feedback dos stakeholders com Local Storage.
-- Espacos reservados para mockups da solucao Agent Mesh.
+- Visão executiva da iniciativa.
+- Contexto da operação transacional de compras.
+- Principais dores de negócio e dores do usuário requisitante.
+- Desenvolvimento da solução com governança e roadmap.
+- Demo da Solução em slide view, com navegação por módulo.
+- Feedback e Oportunidades com armazenamento em Local Storage.
+
+## Módulos da demo
+
+1. Procurement Service Desk com Agent Mesh.
+2. Criação Assistida de Requisições, Escopos e Pedido.
+3. Agent Mesh para Compras de Baixa Complexidade.
+4. Inteligência Pré-Award dentro do Colmeia.
 
 ## Tecnologias
 
@@ -29,33 +31,16 @@ Demonstrar como um Procurement Operations Copilot pode apoiar a Sustentacao Oper
 - Sem backend
 - Pronto para GitHub Pages
 
-## Estrutura
+## Publicação
 
-```text
-.
-├── index.html
-├── css/
-│   └── styles.css
-├── js/
-│   └── app.js
-├── .nojekyll
-└── README.md
-```
+O projeto está configurado para publicação via GitHub Pages a partir da branch `main`, pasta `/ (root)`.
 
-## Publicacao no GitHub Pages
-
-1. Acesse Settings do repositorio.
-2. Abra Pages.
-3. Em Build and deployment, selecione Deploy from a branch.
-4. Selecione branch main e pasta / root.
-5. Salve.
-
-URL esperada apos ativacao:
+URL pública:
 
 ```text
 https://diaswagnerjr.github.io/procurement-operations-copilot/
 ```
 
-## Observacao
+## Observação
 
-Os dados, indicadores e interacoes apresentados sao simulados e tem finalidade de alinhamento executivo, coleta de feedback e refinamento da visao futura da solucao.
+Os dados, indicadores e interações apresentados são simulados e têm finalidade de alinhamento executivo, coleta de feedback e refinamento da visão futura da solução.
